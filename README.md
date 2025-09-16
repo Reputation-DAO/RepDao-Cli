@@ -108,8 +108,8 @@ import {
 
 import { identityFromPemFile } from 'repdao/identity';
 
-const cid = "txygj-baaaa-aaaam-qd4bq-cai"; // canister id
-const user = "ly6rq-d4d23-63ct7-e2j6c-257jk-627xo-wwwd4-lnxm6-qt7xb-573bv-bqe"; // principal
+const cid = "txygj-baaaa-aaaam-qd1bq-cai"; // canister id
+const user = "ly6rq-d4d23-63ct7-e2j6c-257jk-627xo-wwwd4-lnxm6-qt4xb-573bv-bqe"; // principal
 
 async function main() {
   // load identity
